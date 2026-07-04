@@ -139,7 +139,7 @@ Points are accumulated cumulatively from gameweek 0 (0 points) to the final game
 
 ## 👨‍💻 Author
 
-Your Name
+
 - GitHub: [Ashipunaz](https://github.com/Ashipunaz)
 - Email: ayubu.oseko@gmail.com
 
